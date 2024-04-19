@@ -1,0 +1,3 @@
+La finalidad de este proyecto es explorar con profundidad un Dataset con datos de las ventas de celulares (como variable objetivo) 
+y utilizar caracteristicas del teléfono seleccionadas como variables dependientes para hacer un análisis de regresión lineal, 
+analizando cada uno de los supuestos que se deben de cumplir para que tenga validez o dicho de otra forma suficiencia estadística.
